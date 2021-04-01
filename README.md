@@ -1,2 +1,5 @@
 # UnitySouls
-souls like game made with unity
+
+Genre : Action RPG
+Setting : Dark fantasy
+Game engine : Unity
