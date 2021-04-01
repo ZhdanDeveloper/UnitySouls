@@ -1,5 +1,5 @@
 # UnitySouls
 
-Genre : Action RPG
-Setting : Dark fantasy
-Game engine : Unity
+##Genre : Action RPG
+##Setting : Dark fantasy
+##Game engine : Unity
